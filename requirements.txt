@@ -4,4 +4,4 @@ itsdangerous==0.24
 Jinja2==2.9.6
 py==1.4.34
 pytest==3.2.1
-Werkzeug==0.12.2
+Werkzeug==0.15.3
